@@ -4,8 +4,10 @@
 
 ## 硬體
 
-- HP Pavilion - 14-ce0056tx(4ME03PA)
+- [HP Pavilion - 14-ce0056tx(4ME03PA)](http://www8.hp.com/tw/zh/products/laptops/product-detail.html?oid=22410117) (2018/08~)
   - 換成單支 16GB RAM
+- [Gigabyte U2442N](https://www.gigabyte.com/tw/Laptop/U2442N#kf) (2012/07~2018/08)
+  - 換成兩支 8GB RAM
 - Ducky DK9008 茶軸
 - KBTalking Race 紅軸
 - Logitech M720 Triathlon
