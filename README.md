@@ -29,7 +29,7 @@
     - `export GIT_PS1_SHOWUNTRACKEDFILES=true`
     - `export force_color_prompt=yes`
   - 記得使用 `winpty` 來執行互動式 CLI 程式
-- 以及 PowerShell
+- 以及開源且較新版本的 [PowerShell Core](https://github.com/PowerShell/PowerShell)
   - 安裝 [`posh-git`](https://github.com/dahlbyk/posh-git) 以得到 Git Prompt
 
 ### 編輯器
