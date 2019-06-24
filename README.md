@@ -23,14 +23,18 @@
 
 ### CLI
 
+- 使用 [Windows Terminal](https://github.com/microsoft/terminal) [(下載連結)](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) 執行：
+  - 開源且較新版本的 [PowerShell Core](https://github.com/PowerShell/PowerShell)
+    - 安裝 [`posh-git`](https://github.com/dahlbyk/posh-git) 以得到 Git Prompt
+
+#### 以前用的
+
 - 使用 [Git for Windows](https://git-scm.com/download/win) 內建的 Git Bash
   - 記得打開這幾個環境變數增加 Git Prompt 的顯示內容
     - `export GIT_PS1_SHOWDIRTYSTATE=true`
     - `export GIT_PS1_SHOWUNTRACKEDFILES=true`
     - `export force_color_prompt=yes`
   - 記得使用 `winpty` 來執行互動式 CLI 程式
-- 以及開源且較新版本的 [PowerShell Core](https://github.com/PowerShell/PowerShell)
-  - 安裝 [`posh-git`](https://github.com/dahlbyk/posh-git) 以得到 Git Prompt
 
 ### 編輯器
 
