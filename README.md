@@ -53,7 +53,7 @@
 - Node 上官方網站抓安裝檔
   - https://nodejs.org/en/
 - Yarn 用 `npm` 安裝在 global
-- `node-gyp` 的環境使用 [`windows-build-tools`](https://github.com/felixrieseberg/windows-build-tools)
+- `node-gyp` 的環境使用 [`node-gyp` 推薦的方式建置](https://github.com/nodejs/node-gyp#on-windows)
 
 ### 資料庫
 
