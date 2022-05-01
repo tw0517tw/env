@@ -26,6 +26,7 @@
 - 使用 [Windows Terminal](https://github.com/microsoft/terminal) [(下載連結)](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) 執行：
   - 開源且較新版本的 [PowerShell Core](https://github.com/PowerShell/PowerShell)
     - 安裝 [`posh-git`](https://github.com/dahlbyk/posh-git) 以得到 Git Prompt
+- 使用 [starship](https://github.com/starship/starship) 作為 prompt，並可選擇啟用 Kubernetes module
 
 #### 以前用的
 
