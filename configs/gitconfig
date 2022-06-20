@@ -1,0 +1,15 @@
+[push]
+	default = simple
+[alias]
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	fix = commit --amend --no-edit
+	co = checkout
+	brnach = branch
+	br = branch
+	psuh = push
+	rpo = remote prune origin
+[core]
+	autocrlf = input
+	editor = vi
+[pull]
+	rebase = true
