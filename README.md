@@ -45,6 +45,7 @@
 
 - [等距更紗黑體](https://github.com/be5invis/Sarasa-Gothic/releases)
   - 抓 ttf 的，Windows 還沒支援 ttc
+- [等距更紗黑體 Nerd Font Terminal 版](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts)
 - 魔改版英文等寬微軟正黑體
   - https://www.ptt.cc/bbs/Programming/M.1344622637.A.E4F.html
   - https://code.google.com/archive/p/cs-drag4ie9/downloads
