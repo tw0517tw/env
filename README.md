@@ -18,15 +18,23 @@
 
 ### 作業系統
 
-- Windows 10 專業版
+- Windows 11 專業版
   - 才有 Hyper-V 跑 [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
+- MacOS 最新版
+  - 使用 [defaults 指令](./macosDefaults.sh)修改作業系統相關設定改善體驗
 
 ### CLI
+
+For Windows
 
 - 使用 [Windows Terminal](https://github.com/microsoft/terminal) [(下載連結)](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) 執行：
   - 開源且較新版本的 [PowerShell Core](https://github.com/PowerShell/PowerShell)
     - 安裝 [`posh-git`](https://github.com/dahlbyk/posh-git) 以得到 Git Prompt
 - 使用 [starship](https://github.com/starship/starship) 作為 prompt，並可選擇啟用 Kubernetes module
+
+For Mac
+
+- 使用 [iTerm2](https://iterm2.com/) 開啟 zsh 搭配 [oh-my-zsh](https://ohmyz.sh/)，並設定 `PROMPT` 相關環境變數加入 `kube-ps1`
 
 #### 以前用的
 
@@ -52,10 +60,15 @@
 
 ### Node 環境
 
+For Windows
+
 - Node 上官方網站抓安裝檔
   - https://nodejs.org/en/
 - Yarn 1 用 `npm` 安裝在 global
 - `node-gyp` 的環境使用 [`node-gyp` 推薦的方式建置](https://github.com/nodejs/node-gyp#on-windows)
+
+For mac
+- 使用 [nvm](https://github.com/nvm-sh/nvm) 管理不同版本的 node 環境
 
 ### 資料庫
 
