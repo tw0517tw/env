@@ -34,7 +34,7 @@ For Windows
 
 For Mac
 
-- 使用 [iTerm2](https://iterm2.com/) 開啟 zsh 搭配 [oh-my-zsh](https://ohmyz.sh/)，並設定 `PROMPT` 相關環境變數加入 `kube-ps1`
+- 使用 [iTerm2](https://iterm2.com/) 開啟 zsh 搭配 [oh-my-zsh](https://ohmyz.sh/)，並設定 `PROMPT` 相關環境變數加入 [`kube-ps1`](https://github.com/jonmosco/kube-ps1)
 
 #### 以前用的
 
