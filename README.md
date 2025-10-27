@@ -4,13 +4,20 @@
 
 ## 硬體
 
-- [HP Pavilion - 14-ce0056tx(4ME03PA)](https://support.hp.com/tw-zh/document/c06042793) (2018/08~)
+- [M4 Mac mini 2024 MCYT4TA/A](https://support.apple.com/zh-tw/121555) (2025/03~)
+  - M4/10C CPU/10C GPU/24GB/512GB-TWN
+- [MSI Stealth 14Studio A13VF-021TW](https://tw.msi.com/Laptop/Stealth-14-Studio-A13VX/Specification) (2023/07~)
+  - i7-13700H/16G/RTX4060-8G/1T SSD/W11P/2K/240Hz/14
+  - 換成兩支 32GB RAN
+- [HP Pavilion - 14-ce0056tx(4ME03PA)](https://support.hp.com/tw-zh/document/c06042793) (2018/08~2023/07)
   - 換成單支 16GB RAM
 - [Gigabyte U2442N](https://www.gigabyte.com/tw/Laptop/U2442N#kf) (2012/07~2018/08)
   - 換成兩支 8GB RAM
 - Ducky DK9008 茶軸
 - KBTalking Race 紅軸
+- iRocks K103R 81 鍵 極光藍 防塵奶茶軸
 - Logitech M720 Triathlon
+- Logitech MX Master 3S
 - BenQ 22 吋螢幕
 - BenQ 24 吋螢幕
 
@@ -68,6 +75,7 @@ For Windows
 - `node-gyp` 的環境使用 [`node-gyp` 推薦的方式建置](https://github.com/nodejs/node-gyp#on-windows)
 
 For mac
+
 - 使用 [nvm](https://github.com/nvm-sh/nvm) 管理不同版本的 node 環境
 
 ### 資料庫
@@ -80,6 +88,8 @@ For mac
   - Client 使用 [DBeaver](https://dbeaver.io/)
 
 ### 輔助使用
+
+For Windows
 
 - [System Explorer](https://systemexplorer.net/)
   - 作為工作管理員的輔助
