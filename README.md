@@ -27,7 +27,7 @@
 
 - Windows 11 專業版
   - 才有 Hyper-V 跑 [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
-- MacOS 最新版
+- macOS 最新版
   - 使用 [defaults 指令](./macosDefaults.sh)修改作業系統相關設定改善體驗
 
 ### CLI
@@ -39,7 +39,7 @@ For Windows
     - 安裝 [`posh-git`](https://github.com/dahlbyk/posh-git) 以得到 Git Prompt
 - 使用 [starship](https://github.com/starship/starship) 作為 prompt，並可選擇啟用 Kubernetes module
 
-For Mac
+For macOS
 
 - 使用 [iTerm2](https://iterm2.com/) 開啟 zsh 搭配 [oh-my-zsh](https://ohmyz.sh/)，並設定 `PROMPT` 相關環境變數加入 [`kube-ps1`](https://github.com/jonmosco/kube-ps1)
 
@@ -74,7 +74,7 @@ For Windows
 - Yarn 1 用 `npm` 安裝在 global
 - `node-gyp` 的環境使用 [`node-gyp` 推薦的方式建置](https://github.com/nodejs/node-gyp#on-windows)
 
-For mac
+For macOS
 
 - 使用 [nvm](https://github.com/nvm-sh/nvm) 管理不同版本的 node 環境
 
@@ -87,7 +87,7 @@ For mac
   - Server 使用 Docker 的[官方 image](https://hub.docker.com/r/library/postgres/)
   - Client 使用 [DBeaver](https://dbeaver.io/)
 
-### 輔助使用
+### 輔助使用 Apps
 
 For Windows
 
@@ -105,3 +105,16 @@ For Windows
   - 太陽下山後調整螢幕亮度
 - [CrystalDiskInfo](https://crystalmark.info/en/download/) 和 [CrystalDiskMark](https://crystalmark.info/en/download/)
   - 硬碟資訊和測速工具
+- [ScreenToGif](https://www.screentogif.com/)
+  - 簡單的螢幕錄影程式
+ 
+For macOS
+
+- [RunCat](https://kyome.io/runcat/index.html?lang=en)
+  - 貓貓顯示目前系統負載
+- [AltTab](https://alt-tab-macos.netlify.app/)
+  - Windows 風格的切換視窗
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
+  - 可以針對不同鍵盤各自設定按鍵 mapping
+- [Kap](https://getkap.co/)
+  - 簡單的螢幕錄影程式
