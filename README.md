@@ -8,7 +8,7 @@
   - M4/10C CPU/10C GPU/24GB/512GB-TWN
 - [MSI Stealth 14Studio A13VF-021TW](https://tw.msi.com/Laptop/Stealth-14-Studio-A13VX/Specification) (2023/07~)
   - i7-13700H/16G/RTX4060-8G/1T SSD/W11P/2K/240Hz/14
-  - 換成兩支 32GB RAN
+  - 換成兩支 32GB RAM
 - [HP Pavilion - 14-ce0056tx(4ME03PA)](https://support.hp.com/tw-zh/document/c06042793) (2018/08~2023/07)
   - 換成單支 16GB RAM
 - [Gigabyte U2442N](https://www.gigabyte.com/tw/Laptop/U2442N#kf) (2012/07~2018/08)
