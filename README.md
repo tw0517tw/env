@@ -20,6 +20,7 @@
 - Logitech MX Master 3S
 - BenQ 22 吋螢幕
 - BenQ 24 吋螢幕
+- BenQ MOBIUZ EX271Q HDR400電競螢幕 (27吋/2K/180hz/1ms/IPS)
 
 ## 軟體
 
